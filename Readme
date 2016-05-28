@@ -1,0 +1,13 @@
+Author: Ankit Mahale
+email: amahale2@binghamton.edu
+
+
+
+How to compile:
+Strassen's algorithm- make strassen
+Tromino algorithm- make tromino
+Floyd algorithm- make floyd
+
+
+If you want to change command line arguments you can do that in 
+makefile.
